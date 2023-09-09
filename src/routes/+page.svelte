@@ -1,9 +1,9 @@
 <script lang="ts">
-	import TransactionCard from '$lib/components/transaction-card.svelte';
+	import MainCard from '$lib/components/main-card.svelte';
 
 	export let data;
 </script>
 
-<div class="flex justify-center px-6 py-24 sm:py-32 lg:px-8">
-	<TransactionCard transactions={data.transactions} />
+<div class="sm:flex justify-center px-4 py-14 sm:py-32 lg:px-8">
+	<MainCard transactions={data.transactions} />
 </div>
