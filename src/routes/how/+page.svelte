@@ -6,7 +6,10 @@
 			for new Abyssinia bank emails.
 		</p>
 		<p class="mt-4 text-lg sm:text-xl text-yellow-500">
-			If there are any, the script extracts useful information such as whether the account has been
+			However, there are times when Abyssinia Bank does not send emails.
+		</p>
+		<p class="mt-4 text-lg sm:text-xl text-yellow-500">
+			But if there are any, the script extracts useful information such as whether the account has been
 			debited or not, the total balance, and the date.
 		</p>
 		<p class="mt-4 text-lg sm:text-xl text-yellow-500">

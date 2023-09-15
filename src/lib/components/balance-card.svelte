@@ -12,8 +12,7 @@
 	</div>
 	<div class="bg-yellow-50 rounded-lg p-4">
 		<p class="text-yellow-900 text-sm sm:text-base font-semibold">
-			Welcome to the "How Poor Am I?" website. The "How Poor Am I?" website is the most honest
-			website on the internet. It just tells you how broke I am, straight up.
+			Welcome to the "How Poor Am I?" website. The "How Poor Am I?" website tells how much money I have in my bank account. If I ever get rich, I'll take it down.😁
 		</p>
 	</div>
 </div>
