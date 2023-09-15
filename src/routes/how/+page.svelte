@@ -1,3 +1,10 @@
+<svelte:head>
+  <title>HaPI | How</title>
+  <meta name="description" content="How Poor Am I.">
+  <meta property="og:title" content="Hapi">
+  <meta property="og:description" content="How Poor Am I.">
+</svelte:head>
+
 <div class="sm:flex justify-center px-4 py-4 sm:py-12">
 	<div class="sm:w-[80vw] md:w-[60vw]">
 		<h1 class="text-2xl sm:text-5xl text-yellow-100">HOW DOES THIS WEBISTE WORK?</h1>
