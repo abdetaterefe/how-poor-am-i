@@ -14,7 +14,7 @@
 			{#each transactions as transaction}
 				<li class="text-gray-900 font-medium flex justify-between">
 					<p class="text-yellow-900 text-sm sm:text-base font-semibold">
-						{transaction.balance}
+						transaction.balance
 					</p>
 					{#if transaction.isDebit === 'TRUE'}
 						<div class="bg-red-500 h-4 w-10 text-white rounded-lg flex items-center justify-center">
